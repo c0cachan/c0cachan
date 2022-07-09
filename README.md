@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c0cachan （＾∀＾●）ﾉｼ
 - 👀 I’m interested in hardcore programming and ux design  o(≧∀≦)o
-- 🌱 I’m currently learning python (๑•̀ㅂ•́)و✧
+- 🌱 I’m currently learning python, c and c++ (๑•̀ㅂ•́)و✧
 - 💞️ I’m looking to collaborate on python projects or designing stuff ♪(´▽｀)
 - 📫 you can reach me at
 
